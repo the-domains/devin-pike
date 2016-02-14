@@ -4,7 +4,7 @@
         <description><![CDATA[If I slow down, you might miss it.]]></description>
         <link>https://thegrid.ai/devin-pike/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 21:42:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2016 21:42:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/devin-pike/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A New Start]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/devin-pike/a-new-start/index.html</link>
             <guid isPermaLink="false">e2d0b418-e4e9-4470-aa76-78bc3a908663</guid>
             <pubDate>Sun, 14 Feb 2016 18:46:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Day I Made Harrison Ford Laugh]]></title>
+            <description><![CDATA[<article><h1>The Day I Made Harrison Ford Laugh</h1><p>My last regular writing gig was for a site I co-founded called Red Carpet Crash, in 2009. In the three years I wrote for the site as its editor, I did hundreds of interviews, but the one I enjoyed the most was in the environment I liked the least: the roundtable junket.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d11cacf83f0f2ddbe3f9761e280417b33955306d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/devin-pike/the-day-i-made-harrison-ford-laugh/index.html</link>
+            <guid isPermaLink="false">16e84e1a-b124-4890-aa69-34fc07c52b90</guid>
+            <pubDate>Sun, 14 Feb 2016 21:41:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rebel, Rebel]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/devin-pike/musique-nonstop/index.html</link>
             <guid isPermaLink="false">62555fdc-ccbc-4943-8c2e-d7276d3421c1</guid>
             <pubDate>Sun, 14 Feb 2016 20:48:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thought Experiment: Replacing Tips With A Living Wage]]></title>
-            <description><![CDATA[<article><h1>Thought Experiment: Replacing Tips With A Living Wage</h1><p>Before I begin, I want you all to take a deep breath – especially my friends who have worked in the service industry.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1602abc133ca8ee902f8c916a1a4b1b22fbf617d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/devin-pike/thought-experiment-replacing-tips-with-a-living-wage/index.html</link>
-            <guid isPermaLink="false">c330af2e-f033-4a7f-9272-fc1dd5ead83f</guid>
-            <pubDate>Sun, 14 Feb 2016 20:48:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
