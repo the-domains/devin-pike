@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-14T20:48:23.869Z'
-dateModified: '2016-02-14T20:35:21.875Z'
+datePublished: '2016-02-14T21:10:04.482Z'
+dateModified: '2016-02-14T21:09:59.195Z'
 title: Forgetting To Remember
 author: []
+sourcePath: _posts/2016-02-14-forgetting-to-remember.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-14-forgetting-to-remember.md
-published: true
 url: forgetting-to-remember/index.html
 _type: Article
 
@@ -27,7 +27,7 @@ _type: Article
 History isn't written in an instant. We'd like to think so, these days. "Best Something EVER," we'll say about a performance, or a film, or a t-shirt. (More likely, WORST ever, but that's a discussion for another day.)
 
 In the realm of Instant Gratification and Flash Judgment, fourteen years seems like an eternity.
-![South Padre Island, September 19, 2001](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f45f7d13-180d-4587-b9c3-788ebf01c8ec.jpg)
+![South Padre Island, Texas, 19 September 2001](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad37ac2c-dafb-4f96-88dd-5c41b3dbbff7.jpg)
 
 In the vast majority of the remembrances around 11 September 2001, folks tend to gravitate towards where they were that morning. What they were doing. How they heard. My memories of that time are stronger two weeks later, when I traveled to South Padre Island to meet a group of friends from around the country, on a vacation we planned long before "the world changed."
 
