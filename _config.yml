@@ -1,6 +1,6 @@
 name: Devin Pike
 favicon: null
-layout_spectrum: 0.74184
+layout_spectrum: 1
 typography_spectrum: 0.40538
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#1f4686'
     - '#000000'
     - '#9c9c9c'
-  brandStrength: 0.1875
-  lightness: 0.5
+  brandStrength: 0
+  lightness: 0.8125
   saturation: 0.9119032877497375
   rhythmicContrast: 0.75
 purpose: []
