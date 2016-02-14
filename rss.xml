@@ -4,7 +4,7 @@
         <description><![CDATA[Devin Pike Dot Com]]></description>
         <link>https://thegrid.ai/devin-pike/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 20:49:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2016 20:49:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/devin-pike/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A New Start]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/devin-pike/a-new-start/index.html</link>
             <guid isPermaLink="false">e2d0b418-e4e9-4470-aa76-78bc3a908663</guid>
             <pubDate>Sun, 14 Feb 2016 18:46:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Goodnight, Sharon]]></title>
+            <description><![CDATA[<article><h1>Goodnight, Sharon</h1><p>In my dream, she’s picking me up from the airport, like she did on that Summer day in 1993. She looks at me, with that knowing smile, and all I can do is sigh. It was good to be home. It was good that she was the one that I saw first.</p></article>]]></description>
+            <link>https://thegrid.ai/devin-pike/goodnight-sharon/index.html</link>
+            <guid isPermaLink="false">d992e9eb-928c-4bcb-aeb0-4f8871df4aa9</guid>
+            <pubDate>Sun, 14 Feb 2016 20:48:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Don't We All?]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/devin-pike/meeting-manda/index.html</link>
             <guid isPermaLink="false">033b664c-93ef-4243-9205-2af5a4683882</guid>
             <pubDate>Sun, 14 Feb 2016 19:13:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Push Pin]]></title>
-            <description><![CDATA[<article><h1>Push Pin</h1><p>The weird thing is, I’ve written this post several dozen times in my head over the last couple of months. However, by the time I get to a computer, there’s something else to do, and I put it off until later.</p></article>]]></description>
-            <link>https://thegrid.ai/devin-pike/push-pin/index.html</link>
-            <guid isPermaLink="false">11ae4dd1-06c4-4a9e-b133-3c1246e7ae7d</guid>
-            <pubDate>Sun, 14 Feb 2016 19:11:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
