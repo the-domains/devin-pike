@@ -4,7 +4,7 @@
         <description><![CDATA[If I slow down, you might miss it.]]></description>
         <link>https://thegrid.ai/devin-pike/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 21:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2016 21:41:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/devin-pike/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A New Start]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/devin-pike/a-new-start/index.html</link>
             <guid isPermaLink="false">e2d0b418-e4e9-4470-aa76-78bc3a908663</guid>
             <pubDate>Sun, 14 Feb 2016 18:46:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Single Request For The New Year]]></title>
+            <description><![CDATA[<article><h1>A Single Request For The New Year</h1><p>Rather than tell you that 2016 will be better than 2015, I’m going to make a request of each of you to think about in the next twelve months.</p></article>]]></description>
+            <link>https://thegrid.ai/devin-pike/a-single-request-for-the-new-year/index.html</link>
+            <guid isPermaLink="false">8b03a541-3037-47ad-a31f-b054306ac11e</guid>
+            <pubDate>Sun, 14 Feb 2016 21:41:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Forgetting To Remember]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Goodnight, Steve</h1><p>The first time I used an Apple computer was in Randy Vonderheid’s Journalism class at DeSoto High School, in 1986. Mr. V had seen the writing on the wall, and knew that the future workplace for writers and newspaper folk would be digital. Sure, we knew how to use the pica pole to measure out headline distances, and proportion wheels to properly crop and size photographs… but those days would be in the past, not the future. Programs like the first version of Aldus’ PageMaker would be the way things went from here on out.</p></article>]]></description>
             <link>https://thegrid.ai/devin-pike/goodnight-steve/index.html</link>
             <guid isPermaLink="false">176fb799-1a10-4e01-b9cc-a898071cc5eb</guid>
-            <pubDate>Sun, 14 Feb 2016 20:48:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Goodnight, Sharon]]></title>
-            <description><![CDATA[<article><h1>Goodnight, Sharon</h1><p>In my dream, she’s picking me up from the airport, like she did on that Summer day in 1993. She looks at me, with that knowing smile, and all I can do is sigh. It was good to be home. It was good that she was the one that I saw first.</p></article>]]></description>
-            <link>https://thegrid.ai/devin-pike/goodnight-sharon/index.html</link>
-            <guid isPermaLink="false">d992e9eb-928c-4bcb-aeb0-4f8871df4aa9</guid>
             <pubDate>Sun, 14 Feb 2016 20:48:24 GMT</pubDate>
         </item>
     </channel>
