@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: Devin Pike Dot Com
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.40538
 collections:
   - index:
       path: /
@@ -18,23 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 1
+title: 'If I slow down, you might miss it.'
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+analytics:
+  google: UA-210195-18
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9119032877497375
-  brandStrength: 0
-  rhythmicContrast: 0.75
   brandColors:
     - '#ffffff'
     - '#ff1010'
     - '#1f4686'
     - '#000000'
     - '#9c9c9c'
+  brandStrength: 0
   lightness: 0.8125
+  saturation: 0.9119032877497375
+  rhythmicContrast: 0.75
 purpose: []
-favicon: null
-name: Devin Pike
-typography_spectrum: 0.40538
