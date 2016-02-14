@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-14T18:11:53.946Z'
-dateModified: '2016-02-14T18:07:18.046Z'
+datePublished: '2016-02-14T18:27:18.570Z'
+dateModified: '2016-02-14T18:27:00.054Z'
 title: 'Goodnight, Isis'
 author: []
 authors: []
@@ -19,12 +19,13 @@ publisher:
 sourcePath: _posts/2016-02-14-goodnight-isis.md
 published: true
 url: goodnight-isis/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Goodnight, Isis
 
 Finally out of the old apartment, after a long night of steam cleaning, throwing away stuff that neither of us had used in years, and one Queen Amidala standee bequeathed to our former next-door neighbor, who turned 21 last night. How that thing will be defiled, I don't even think I want to know, but at least it'll have a new home.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ec57b97-ee9e-4c4e-8629-540dfb48b483.jpg)
 
 When I think I'm going to be fine and not miss Isis anymore, I see her on the sink, pawing at the air where it looks like she's waving at me. She and I had more than a few adventures together, and the thought of her not in my life is pretty hard to bear.
 
